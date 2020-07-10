@@ -26,5 +26,8 @@
     <ClInclude Include="rendering.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CPU_instructions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

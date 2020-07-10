@@ -155,6 +155,7 @@
     <ClCompile Include="rendering.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CPU_instructions.h" />
     <ClInclude Include="rendering.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
